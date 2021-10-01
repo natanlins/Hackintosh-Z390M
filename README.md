@@ -33,3 +33,5 @@ https://dortania.github.io/OpenCore-Install-Guide/
 https://dortania.github.io/builds/
 <br>
 https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING
+<br>
+https://www.luchina.com.br/
