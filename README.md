@@ -27,3 +27,7 @@ Package versions:
   ProperTree    | (1b6cf34)
   GenSMBIOS     | (afc96cf)
 ```
+# References
+https://dortania.github.io/OpenCore-Install-Guide/
+<br>
+https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING
