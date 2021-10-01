@@ -34,4 +34,8 @@ https://dortania.github.io/builds/
 <br>
 https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING
 <br>
+https://github.com/corpnewt/ProperTree
+<br>
+https://github.com/corpnewt/GenSMBIOS
+<br>
 https://www.luchina.com.br/
