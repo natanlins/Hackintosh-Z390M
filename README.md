@@ -22,5 +22,3 @@ Package versions:
   ProperTree    | (1b6cf34)
   GenSMBIOS     | (afc96cf)
 ```
-#### You need to change PlatformInfo according to your informations generated on SMBIOS.
-#### Chage MLB, ROM (Your MAC Address), ProductSerial, UUID.
