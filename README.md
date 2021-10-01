@@ -1,4 +1,6 @@
 ### Hackintosh - Gigabyte Z390 M Gaming
+  #### You need to change PlatformInfo according to your informations generated on SMBIOS.
+  → Chage MLB, ROM (Your MAC Address), ProductSerial, UUID on ```EFI/OC/config.plist```.
 ```
 Computer specs:
   Intel Core i5-9600K
@@ -6,7 +8,8 @@ Computer specs:
   XFX Radeon RX580 8GB
   Crucial Ballistix 8GB 2400MHz
   Kingston SSD A400 240GB
-  
+```
+```
 Package versions:
   BIOS          | F9m
   OpenCore      | 0.7.4 (102ede5)
@@ -19,3 +22,5 @@ Package versions:
   ProperTree    | (1b6cf34)
   GenSMBIOS     | (afc96cf)
 ```
+#### You need to change PlatformInfo according to your informations generated on SMBIOS.
+#### Chage MLB, ROM (Your MAC Address), ProductSerial, UUID.
