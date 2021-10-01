@@ -1,6 +1,8 @@
-### Hackintosh - Gigabyte Z390 M Gaming
+### Hackintosh - Gigabyte Z390 M Gaming - OpenCore - macOS Big Sur 11.6
   #### You need to change PlatformInfo according to your informations generated on SMBIOS.
   → Chage MLB, ROM (Your MAC Address), ProductSerial, UUID on ```EFI/OC/config.plist```.
+  
+  ![alt text](https://github.com/natanlins/hackintosh/blob/main/config.png)
 ```
 Computer specs:
   Intel Core i5-9600K
