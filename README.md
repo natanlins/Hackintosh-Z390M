@@ -45,4 +45,3 @@ https://github.com/corpnewt/ProperTree
 <br>
 https://github.com/corpnewt/GenSMBIOS
 <br>
-https://www.luchina.com.br/
