@@ -1,7 +1,7 @@
 ### Hackintosh - Gigabyte Z390 M Gaming - OpenCore - macOS Big Sur 11.6
 
 ![alt text](https://github.com/natanlins/hackintosh/blob/main/Images/cpu.png)
-
+  #### I'm using the same configuration of [BenjaminX's BIOS Settings](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING).
   #### You need to change PlatformInfo according to your informations generated on SMBIOS.
   → Chage MLB, ROM (Your MAC Address), ProductSerial, UUID on ```EFI/OC/config.plist```.
   
