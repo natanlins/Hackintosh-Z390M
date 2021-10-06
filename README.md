@@ -6,27 +6,34 @@
   → Chage MLB, ROM (Your MAC Address), ProductSerial, UUID on ```EFI/OC/config.plist```.
   
   ![alt text](https://github.com/natanlins/hackintosh/blob/main/Images/config.png)
+#### Hardware
 ```
-Computer specs:
   Intel Core i5-9600K
   Gigabyte Z390 M Gaming
   XFX Radeon RX580 8GB
   Crucial Ballistix 8GB 2400MHz
   Kingston SSD A400 240GB
 ```
+#### Package versions
 ```
-Package versions:
   BIOS          | F9m
-  OpenCore      | 0.7.4 (102ede5)
-  VirtualSMC    | 1.2.8 (a4de142)
+  OpenCore      | 0.7.5 (d1f60d3)
+  VirtualSMC    | 1.2.8 (6da45d0)
   Lilu          | 1.5.7 (b897413)
-  WhateverGreen | 1.5.4 (7d632c5)
-  AppleALC      | 1.6.5 (4a86cc5)
+  WhateverGreen | 1.5.5 (f78b2d9)
+  AppleALC      | 1.6.6 (cac3a3b)
   IntelMausi    | 1.0.8 (8123cea)
   RadeonBoost   | 1.6.0
-  ProperTree    | (1b6cf34)
+  ProperTree    | (07572ec)
   GenSMBIOS     | (afc96cf)
 ```
+#### Changelog
+```
+05/10/2021 - v1.1:
+Warning: mapped USB 2.0 ports only.
+OpenCore, VirtualSMC, WhateverGreen and AppleALC updated.
+```
+
 # References
 https://dortania.github.io/OpenCore-Install-Guide/
 <br>
